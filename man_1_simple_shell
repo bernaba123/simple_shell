@@ -1,4 +1,4 @@
-.TH SHELLBY 1 "November 2018" "Holberton School" "0x15. C - Simple Shell"
+.TH SHELLBY 1 "April 2021" "Alx" "0x16. C - Simple Shell"
 .SH NAME
 .B shellby\fR \- simple UNIX command interpreter
 .SH SYNOPSIS
@@ -179,4 +179,4 @@ access(2), chdir(2), execve(2), _exit(2), exit(3), fflush(3), fork(2), free(3), 
 .B Shellby\fR emulates basic functionality of the \fBsh\fR shell.
 This man page borrows from the corresponding man pages sh(1) and dash(1).
 .SH AUTHOR
-Alex Yu and Brennan D Baraban
+Bernabas Getachew
