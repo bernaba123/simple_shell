@@ -278,5 +278,4 @@ $
 ```
 
 ## Authors :black_nib:
-
 Bernabas Getachew
